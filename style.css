@@ -1,0 +1,54 @@
+/*div{
+
+
+
+h2{
+    color:green;
+    text-align:center;
+    text-decoration:rosybrown dotted underline;
+    font-weight: 100;
+}
+    
+p
+{
+    text-align: center;
+    text-decoration: none;
+    font-family:cambria; 
+    font-weight:bolder;
+}
+a
+{
+    color:darkmagenta;
+text-decoration:none;
+font-size: larger;
+}
+}
+#para
+{
+    line-height:50px;
+    font-size:20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#ex
+{
+    text-align: center;
+    text-transform: capitalize;
+}
+*{
+    font-family:"Times New Roman";
+    
+}
+#outer{
+    font-size: 25px;
+}
+#inner{
+    font-size:10px;
+}*/
+div{
+    height:100px;
+    width:100px;
+    text-align: center;
+    color:white;
+    background-color:green;
+    border-radius:50%;
+}

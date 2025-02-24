@@ -1,0 +1,29 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+    #d{  
+    height:200px;
+    width:500px;
+    background-color:rgb(255, 239, 181);
+    border-radius:15px;
+    text-align: left;
+}
+
+.btns{
+  
+
+    #b{
+
+    background-color:rgb(255, 239, 181); 
+    border: none;
+    button-align:right;
+    position:sticky;
+    bottom:0;
+
+  
+    background-color: rgb(255, 200, 0);
+    border-radius: 15px;
+    padding:5px;
+    position:sticky;
+}

@@ -1,0 +1,21 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+div{
+    
+    background-color:#0f1111;
+    height:60px;
+    
+}
+a{
+    margin-right:200px;
+    color:white;
+}
+#logo {
+    color:rgb(250, 209, 48);
+    font-size: 25px; 
+}
+#b1{
+    background-color:rgb(255, 204, 0)
+}
